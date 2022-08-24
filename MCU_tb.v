@@ -1,5 +1,5 @@
 module MCU_tb;
-// fpga4student.com: FPGA project, Verilog project, VHDL project 
+ 
 // Verilog project: Verilog code for microcontroller
 // Inputs
 reg clk;
